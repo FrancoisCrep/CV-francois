@@ -1,0 +1,147 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body{
+	background-image: url(https://images4.alphacoders.com/936/936378.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+#container {
+	background-color: rgba(153, 153, 102, .9);
+	width: 1000px;
+	margin: 0 auto;
+	border-radius: 50px
+}
+
+.logos {
+	width:auto;
+	height: 100px;
+	margin: 0 auto;
+	font-size: 50Px;
+	text-align: center;
+}
+
+#logopala {
+	width: 100px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+#banniere {
+	background-color:#6A6A24;
+	width: auto;
+	opacity: 90%;
+	border: solid #444434 7px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+nav {
+	display: block;
+	width: 65%;
+	margin: 0 auto;
+}
+
+#banniere li {
+	font-size: 20px;
+	display: inline;
+	margin-right: 50px;
+	text-align: center;
+	width: 1000px;
+}
+
+h1 {
+	text-align:center;
+	vertical-align:auto;
+	font-size: 1em;
+	display: inline;
+}
+
+section {
+	text-align: center;
+}
+
+section p {
+	margin: 0 auto;
+	width: 75%;
+}
+
+#presentation p {
+	font-size: 150%;
+}
+
+#formations li {
+	margin: 0 auto;
+	font-size: 150%;
+	list-style: none;
+}
+
+#competences table {
+	border-collapse: collapse;
+	margin: 0 50px;
+	font-size: 1.3em;
+}
+
+#competences td {
+	border: 3px solid black;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+#galerie td {
+	margin:center;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 3px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#photos {
+	margin:0 auto;
+	border-collapse: collapse;
+	background-color: white;
+}
+
+
+
+#minecraft {
+	width: 280px;
+}
+
+#paladins {
+	width: 280px;
+}
+
+#transformers {
+	width: 280px;
+}
+
+#zeus {
+	width: 280px;
+}
+
+#stargate {
+	width: 280px;
+}
+
+#roman {
+	width: 280px;
+}
+
+#bande {
+	background-color:#6A6A24;
+	width: auto;
+	height: 50px;
+	opacity: 90%;
+	border: solid #444434 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
